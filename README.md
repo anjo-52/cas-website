@@ -39,3 +39,4 @@ The website is fully responsive and works across:
 - Vite (Development Tool)
 
 ---
+demo link: https://cas-malampuzha.netlify.app/
