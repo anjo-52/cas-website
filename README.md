@@ -39,4 +39,3 @@ The website is fully responsive and works across:
 - Vite (Development Tool)
 
 ---
-
